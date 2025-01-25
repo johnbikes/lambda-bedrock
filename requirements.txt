@@ -1,0 +1,3 @@
+# boto3
+# version at the time
+boto3==1.36.6
